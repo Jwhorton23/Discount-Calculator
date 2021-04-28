@@ -1,4 +1,4 @@
-# Contoso widgets
+# Widgets
 # This program calculates the discount applied based on how many units are purchased
 
 
